@@ -9,7 +9,7 @@ Essa atividade foi desenvolvido em ![Python](https://img.shields.io/badge/%F0%9F
 
 O sistema solicia: Nome, Idade e Opinião sobre o atendimento ao cliente, pedindo uma resposta de 1 ou um ou Um ou UM, exibindo a mensagem EXEXCELENTE; 2 ou dois ou DOIS ou Dois, exibindo a mensagem - BOM; 3 ou tres ou TRES ou Tres, exibindo a mensagem RUIM.
 
-Foi desenvolvida para 50 entrevista utilizando a estrutura (for e match case), possuindo contadores para registrar a quantidade de respostas provisorias e ao final das 50 entrevistas o sistema dará a quantidade total.
+Foi desenvolvida para 50 entrevista utilizando a estrutura ("for e match case"), possuindo contadores para registrar a quantidade de respostas provisorias e ao final das 50 entrevistas o sistema dará a quantidade total.
 
 ![Static Badge](https://img.shields.io/badge/TESTE-GRAY)
 
